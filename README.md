@@ -37,3 +37,7 @@
     </body>
 </html>
 
+style.css
+body {
+    background-color: #B0C4DE;
+}
